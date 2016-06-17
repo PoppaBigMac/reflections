@@ -16,3 +16,14 @@ between looking at the files and commiting the changes. I think the
 value that it offers is a way to see what files you will be commiting
 before you actually commit and it gives you flexibility to change your
 mind if you decide that another way to commit is better.
+
+
+
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+We can use git status to see the status of the changes we have made since our
+last commit. With this we can then use 'git add _' to add files to the staging
+area and almost be ready to commit. We can use this area to compare our working
+area with the staging area. Then we can 'git commit' the changes.
