@@ -39,3 +39,22 @@ stored locally?
 This allows Git to know if a Fast-Foward merge would be available to be made
 or if there would need to be a regular merge with posible conflicts. These are
 different in their time consumption. One is quick and the other is not.
+
+
+
+
+How would you collaborate without using Git or GitHub? What would be easier,
+and what would be harder?
+
+Instead of using Git I would be using just file sharing through emails. I think
+that this would be harder and not easier. I cannot think of anything that would
+be easier than using Git to collaborate. 
+
+
+
+
+
+
+
+
+
