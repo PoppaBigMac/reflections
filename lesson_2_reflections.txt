@@ -51,3 +51,12 @@ a new branch. We can also see what parent commit each commits has with a diagram
 
 
 
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+When you merge two branches together you get the code between the two branches
+to combine into one file. This allows you to have a new commit when you know
+that you merged two branches. We represent this in the diagram in the way that
+we do because it shows that the two branches still exist and that the parents
+of each commit are still the same even though that the two branches interleaf.
+
