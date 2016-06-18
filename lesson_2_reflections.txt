@@ -38,3 +38,16 @@ A branch would be really helpful when wanting to try things out with new
 features without worrying about breaking a version that already may work.
 Branches allow us to stay organized with the different 'versions' that we 
 may have.
+
+
+
+
+How do the diagrams help you visualize the branch structure?
+
+Diagrams allows us to visualize the branch structure by showing us which
+commits would be lost if we were to make commits from a place without creating
+a new branch. We can also see what parent commit each commits has with a diagram
+
+
+
+
