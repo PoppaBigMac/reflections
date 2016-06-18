@@ -5,6 +5,10 @@ I can just look at the lines that have changes. While I still believe
 that I will need more practice with the interface before I can fully get
 a handle on it, I can see how this will be really powerful.
 
+Update: Now that I am on lesson three, respect has grown for Git and
+version control. I really cannot wait until I can use this on my own
+projects in the future.
+
 
 
 
