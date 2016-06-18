@@ -60,3 +60,16 @@ that you merged two branches. We represent this in the diagram in the way that
 we do because it shows that the two branches still exist and that the parents
 of each commit are still the same even though that the two branches interleaf.
 
+
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
+
+The pros of automatic merging is that it takes away from having to copy all the
+code and paste it into one and then commit that file. The con of automatic
+version is that it doesn't always work. When there are two sets of code that
+go against each from the original, Git does not know which one to keep. This is
+when doing merges come in handy. Git lets you know where the conflict occured
+and lets you decide which code to keep and adds a little note to the commit
+letting you know that there was conflict when attempting to merge.
