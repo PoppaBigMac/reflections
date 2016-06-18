@@ -15,3 +15,17 @@ You want to make sure that the changes that are being pulled are changes that
 you want to have on your local repository. This allows a user to avoid getting
 unwanted commits and changes. Just like push, you want to have control over
 what new data you allow into your repository.
+
+
+
+
+Describe the differences between forks, clones, and branches. When would you
+use one instead of another?
+
+Forks are a type of cloning that is done in GitHub. A clone is made of a
+repository in GitHub and copied to GitHub. A clones are copies that can be made
+locally, and from GitHub to your local computer. Clones are different than
+copies because you can have metadate saved that stores the commits made. A
+branch on the other hand is when you make two commit path from a single
+parent commit. This is useful when you want to experiment with your code without
+breaking any of the working files.
