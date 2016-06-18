@@ -29,3 +29,13 @@ copies because you can have metadate saved that stores the commits made. A
 branch on the other hand is when you make two commit path from a single
 parent commit. This is useful when you want to experiment with your code without
 breaking any of the working files.
+
+
+
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+This allows Git to know if a Fast-Foward merge would be available to be made
+or if there would need to be a regular merge with posible conflicts. These are
+different in their time consumption. One is quick and the other is not.
