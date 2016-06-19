@@ -62,8 +62,7 @@ allow you to make changes to the main code without the owners permission and
 then using a pull request to try and get your changes into the master version.
 The downside of using a different branch is the complexity that it takes to make
 changes, put them on your local computer, make changes and then push the branch
-and merge the branch with the origin/master.
-
+and merge the branch with the origin/master. (commited wrong number)
 
 
 
